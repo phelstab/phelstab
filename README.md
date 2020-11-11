@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently Listening ⚡
 
 <!--
 **phelstab/phelstab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w1nderchild&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=w1nderchild&redirect=true)
