@@ -2,7 +2,7 @@
 <center> 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mla7glslbi14rd9rhjp2ldq2s&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mla7glslbi14rd9rhjp2ldq2s&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0q78erjw8uws5rzhsa4b87qqm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0q78erjw8uws5rzhsa4b87qqm&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=phelstab&color=grey)
 
